@@ -23,3 +23,18 @@ https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep
 
 Search for  state art
 
+Important terms for "Fusion shceme"
+
+ - Automated Mosaking
+ - Image Stitcging
+
+Related work
+
+[Automatic and generic mosaicing of satellite images](https://ieeexplore.ieee.org/document/5650102)
+[Automated Mosaicking of Sentinel-2 Satellite Imagery
+](https://www.mdpi.com/2072-4292/12/22/3680)
+
+[Video 1](https://youtu.be/WJIqtk3XmL0)
+[Video 2](https://youtu.be/uMABRY8QPe0)
+[Video 3](https://youtu.be/OZUTkmCq5Ys)
+
